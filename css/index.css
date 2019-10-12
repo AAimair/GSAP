@@ -2,3 +2,68 @@ img {
   width: 100px;
   height: 100px;
 }
+div {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  opacity: 0;
+  box-shadow: #cccccc 0 0 3px;
+}
+.a {
+  position: absolute;
+  background-color: black;
+  top: 300px;
+  left: 20px;
+  /* opacity: 0; */
+  /* display: none; */
+}
+.b {
+  position: absolute;
+  background-color: black;
+  top: 30px;
+  left: 150px;
+  /* display: none; */
+}
+.c {
+  position: absolute;
+  background-color: black;
+  top: 100px;
+  left: 250px;
+  /* display: none; */
+}
+.d {
+  position: absolute;
+  background-color: black;
+  top: 202px;
+  left: 30px;
+  /* display: none; */
+}
+.e {
+  position: absolute;
+  background-color: red;
+  top: 150px;
+  left: 150px;
+  /* display: none; */
+}
+.f {
+  position: absolute;
+  background-color: red;
+  top: 200px;
+  left: 200px;
+  /* display: none; */
+}
+.g {
+  position: absolute;
+  background-color: red;
+  top: 330px;
+  left: 400px;
+  /* display: none; */
+}
+.h {
+  position: absolute;
+  background-color: red;
+  top: 290px;
+  left: 600px;
+  /* display: none; */
+}
